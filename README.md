@@ -13,7 +13,7 @@ content = """<h1 align="center">Hi there, I'm Nishant Koladiya 👋</h1>
 - 🌱 I’m currently learning **Next.js, TypeScript, and Advanced State Management**
 - 👯 I’m looking to collaborate on **Open Source Projects** and **innovative startup ideas**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and Node.js**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **koladiyanishant4@gmaqil.com**
 - ⚡ Fun fact: **I can center a div without looking it up!**
 
 ---
