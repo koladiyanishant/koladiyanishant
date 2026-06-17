@@ -9,7 +9,7 @@ content = """<h1 align="center">Hi there, I'm Nishant Koladiya 👋</h1>
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **cutting-edge web applications**
+- 🔭 I’m currently working on **Olysim Communications Private Limited**
 - 🌱 I’m currently learning **Next.js, TypeScript, and Advanced State Management**
 - 👯 I’m looking to collaborate on **Open Source Projects** and **innovative startup ideas**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, and Node.js**
